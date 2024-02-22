@@ -13,8 +13,6 @@ To run the files free_plot.py or fitter.py, I recommend to setup a python 3.8 vi
 ```console
 pip install -r requirements.txt
 ```
-Otherwise, you can download and directly run the files free_plot.exe or fitter.exe on a Windows X64 machine using the executable format. 
-
 ## Usage
 For the free plot case, nothing is needed as entries. You can edit the plot parameter and enjoy updating the general cosinus shape. To use the fitter, you must provide the experimental data in CSV format containing two columns of the angles (in degrees or radians) and the intensity values. You can choose this file via the browsing dialog by pushing the browse button. Then, you can edit the parameter to fit the theoretical curve with your loaded experimental data. After getting the wanted curve, you can save the plot or export the fitting data via the export button in case you prefer re-plot them using another software. 
 
@@ -24,6 +22,7 @@ For the free plot case, nothing is needed as entries. You can edit the plot para
   <li>Add a check button to accept radians and degrees</li>
   <li>Extract the parameters from the experimental data use them by default</li>
   <li>Integrate an optimization to fully modelize the fitting plot</li>
+  <li>Transform the project on a desktop application</li>
 </ul> 
 
 ## Support and Contributing
