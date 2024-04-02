@@ -9,7 +9,7 @@ Second harmonic generation (SHG) is a second-order nonlinear optical process oft
 In this project, I developed a GUI allowing a manual fitting process via a general cosinus function. 
 
 ## Installation
-To run the files free_plot.py or fitter.py, I recommend to setup a python 3.8 virtual environment and adding the required libraries using the following command after cloning the rep (you can just download the rep in case you don't use git):
+To run the files free_plot.py or fitter.py, I recommend to setup a python virtual environment (tested and verified under 3.8.0 version) and adding the required libraries using the following command after cloning the rep (you can just download the rep in case you don't use git):
 ```console
 pip install -r requirements.txt
 ```
