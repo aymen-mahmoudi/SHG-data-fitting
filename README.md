@@ -27,7 +27,7 @@ For the free plot case, nothing is needed as entries. You can edit the plot para
 
 ## Support and Contributing
 Let me know if you have any suggestions/ideas to enhance those scripts or add further settings. Your suggestions are warmly welcomed.
-<br>
+<br><br>
 In case of a problem, It is strongly recommended to post an issue. For a more confidential demand, don't hesitate to email me.
 
 
